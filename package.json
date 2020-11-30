@@ -1,0 +1,27 @@
+{
+  "name": "github-actions-nodejs",
+  "version": "1.0.0",
+  "description": "A sample repo demonstrating github actions and docker/node",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheezItMan/github-actions-nodejs.git"
+  },
+  "keywords": [
+    "docker",
+    "github-actions",
+    "node"
+  ],
+  "author": "Chris McAnally",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CheezItMan/github-actions-nodejs/issues"
+  },
+  "homepage": "https://github.com/CheezItMan/github-actions-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
